@@ -1,0 +1,440 @@
+Norms,Norms Code,Standard Units,Standard Qtd,Skilled Manpower,Unskilled Manpower
+Brick Work. Supplying preparing and construction of chimney made brick work of approved quality with 1:3 cement sand mortar ratio with 30 m lead,CBW13,CUM,1,1.5,2.2
+Brick Work. Supplying preparing and construction of chimney made brick work of approved quality with 1:4 cement sand mortar ratio with 30 m lead,CBW14,CUM,1,1.5,2.2
+"1:4:8 PCC works(foundation,wall boundary concreting work material supply and upto 30m lead)",PCCWM7,CUM,1,1,4
+"1:3:6 PCC Works, M10 Grade Concrete Manual Mixing(foundation,wall,boundary concreting work supply and installtion upto 30m lead)",PCCWM10,CUM,1,1,4
+"1:2:4 PCC Works, M15 Grade Concrete mixed manually(foundation,wall,boundary material supply and installtion upto30m lead)",PCCM15,CUM,1,1,4
+"1:1.5:3 Concrete, M20 Grade, Mixed Manually(deck slab,beam,super structure material supply and installation upto 30m lead)",RCCWM20,CUM,1,0.8,7
+"1:1:2 RCC Work, M25 grade concrete, Mixed Manually(deck slab,beam, superstructure supply and installation upto 30m lead)",RCCWM25,CUM,1,0.8,7
+"1:1.5:3 RCC Works, M20 Grade Concrete using machine",RCCM20,CUM,1,0.5,3.5
+"1:1:2 Ratio Concrete, M25 Grade Concrete, Mixing By mixer",RCCM25,CUM,1,0.5,3.5
+"Cutting, bending, placing, and binding reinforcement bars with a lead of 30m.",RE001,MT,1,12,12
+1:1:2 (M25) concrete in superstructure using micro silica and plasticizer with 30 m lead,RCCPM25,CUM,1,0.5,3.5
+preparing and supplying material for casting super structure using Ready mix and also transportation,RMC001,CUM,1,0.5,3.5
+38 mm thick screeding floor finish of 1:2:4 concrete,FW001,SM,1,1.25,2
+50 mm thick screeding floor finish of 1:2:4 ratio concrete,FW002,SM,1,1.25,2.5
+75 mm screeding flooring finish with 1:2:4 concrete ,FW003,SM,10,1.25,3
+3 mm thick cement punning floor finish above screeding ,FE004,SM,100,10,10
+Porcelain glazed tile works in 1:4 cement sand mortar ,FW004,SM,10,13,4.5
+Vitrified tile works in 1:4 cement sand mortar ,FW005,SM,10,13,4.5
+"12.5 mm Plaster works on all kinds of vertical surfaces,  1:2 Cement Sand ratio",PW12,SM,1,12,16
+"12.5 mm Plaster works on all kinds of vertical surfaces,  1:3 Cement Sand ratio",PW13,SM,100,12,16
+"12.5 mm Plaster works on all kinds of vertical surfaces,  1:4 Cement Sand ratio",PW14,SM,100,12,16
+"12.5 mm Plaster works on all kinds of vertical surfaces,  1:6 Cement Sand ratio",PW16,SM,100,12,16
+"20 mm Plaster works on all kinds of vertical surfaces,  1:3 Cement Sand ratio",PW2013,SM,100,14,19
+"20 mm Plaster works on all kinds of vertical surfaces,  1:4 Cement Sand ratio",PW2014,SM,100,14,19
+"20 mm Plaster works on all kinds of vertical surfaces,  1:6 Cement Sand ratio",PW2016,SM,100,14,19
+"20 mm Plaster Patti, Rain Beat, or Jhalar above plaster",PW006,M,1,0.025,0.01
+Manual Excavation of Soft Soil lift up to 1.5 m and dispose up to 10m,EW001,CUM,1,0,0.7
+Manual Excavation of hard Soil and soft rock lift up to 1.5 m and disposal of up to 10m,EW002,CUM,1,0,0.8
+Manual Excavation/ cutting of medium type of rock lift up to 1.5 m and disposal of up to 10m without the use of Explosives.,EW003,CUM,1,0,3
+Manual Excavation/cutting of hard rock lift up to 1.5 m and disposal of up to 10m without the use of Explosives and chisel.,EW004,CUM,1,0,5
+Manual Excavation/cutting of hard rock lift up to 1.5 m and disposal of up to 10m using a chisel hammer but without the use of Explosives.,EW005,CUM,1,0,24.2
+"Manual filling, spreading, watering, and compacting of soil in 15 cm layers with a lead of 10 m",EW006,CUM,1,0,0.5
+"Manual filling, spreading, watering, and compacting of sand in 15 cm layers with a lead of 10 m",EW007,CUM,1,0,0.7
+Compacting of soil or sand  in 20 cm layers using 8-10 MT pneumatic roller,EW008,SM,100,0,0.7
+Excavation of Soft Soil using  0.35 Cum Excavator,EW009,CUM,1,0,0
+Excavation of Hard Soil using  0.35 Cum Excavator,EW010,CUM,1,0,0
+Excavation of soft rock using  0.35 Cum Excavator,EW011,CUM,1,0,0
+Excavation of hard rock using  0.35 Cum Excavator,EW012,CUM,1,0,0
+Excavation of Soft Soil using  0.63 Cum Excavator,EW013,CUM,1,0,0
+Excavation of Medium Soil using  0.63 Cum Excavator,EW014,CUM,1,0,0
+Excavation of soft rock using  0.63 Cum Excavator,EW015,CUM,1,0,0
+Excavation of hard rock using  0.63 Cum Excavator,EW016,CUM,1,0,0
+Excavation of Soft Soil using  0.8 Cum Excavator,EW017,CUM,1,0,0
+Excavation of hard Soil using  0.8 Cum Excavator,EW018,CUM,1,0,0
+Excavation of soft rock using  0.8 Cum Excavator,EW019,CUM,1,0,0
+Excavation of Hard rock using  0.8 Cum Excavator,EW020,CUM,1,0,0
+Excavation of Soft Soil using  1.32 Cum Excavator,EW021,CUM,1,0,0
+Excavation of hard Soil using  1.32 Cum Excavator,EW022,CUM,1,0,0
+Excavation of soft rock using  1.32 Cum Excavator,EW023,CUM,1,0,0
+Excavation of hard rock using  1.32 Cum Excavator,EW024,CUM,1,0,0
+Flat Brick Soling Works spreading of sand,SW001,SM,10,0.5,1
+Stone Soling Works,SW002,CUM,10,1,3.5
+Brick Work. Supplying preparing and construction of chimney made brick work of approved quality with 1:6 cement sand mortar ratio with 30 m lead,CBW16,CUM,1,1.5,2.2
+"Brick wall Work. Supplying of brick,cement,sand preparing(1:6)motar with  chimney made brick with 30 m lead/transported.",MBW18,CUM,1,1.6,2.2
+Brick Work. Supplying preparing and construction of Machine made brick work of approved quality with 1:3 cement sand mortar ratio with 30 m lead,MBW13,CUM,1,1.5,2.2
+Brick Work. Supplying preparing and construction of Machine made brick work of approved quality with 1:4 cement sand mortar ratio with 30 m lead,MBW14,CUM,1,1.5,2.2
+Stone Masonry Work. Supplying preparing and construction of stone masonry of approved quality with 1:4 cement sand mortar ratio with 30 m lead,SMW14,CUM,1,2,5.4
+Stone Masonry Work. Supplying preparing and construction of stone masonry of approved quality with 1:3 cement sand mortar ratio with 30 m lead,SMW13,CUM,1,2,5.4
+Stone Masonry Work. Supplying preparing and construction of stone masonry of approved quality with 1:6 cement sand mortar ratio with 30 m lead,SMW16,CUM,1,2,5.4
+Ply formwork in Column,SFW001,SM,10,1.574,2.361
+Ply formwork in Beam upto 0.3m high,SFW002,SM,10,4,6
+Ply formwork in Slab using tubular pipes,SFW003,SM,100,16.5,25.7
+Roofing work using  (CGI) Corrugated Galvanized Iron Sheet 24 gage (0.5 mm),RW001,SM,10,1.1,1.25
+placing and fixing of Ridge cover made of Plane Iron Sheet 24 gage (0.5 mm),RW002,M,10,2,3
+Roofing work using  Plane corogated Galvanized Iron (GI) Sheet 24 gage (0.5 mm).,RW003,SM,10,1.1,1.25
+Making and placing 150 mm to 450 mm wide with galvanized plane sheet gutter for rain water putting on pipe and all complete with (40 mm*3mm) iron brackets and other required accessories.,RW004,M,10,1.75,2
+Making and fixing door frame of Nepali Saal wood,WW001,CUM,1,34,3.4
+Cutting and placing 16 mm Granite in 20 mm 1:2 Cement sand mortar without polishing,FW006,SM,10,2,8
+Supply and Place aluminium window panels with frames as per design and specification,DWP001,SM,1,0,0
+Supply and Place UPVC window panels as per design and specification,DWP002,SM,1,0,0
+"Supply and place wooden door panels made of Nepali Saal wood plank in a 38 mm thick wooden frame. Dila-khapa(khappa ko naap:1.07*1.982,2.114 sqm).",DWP003,SM,1,10,1
+"Supply and place wooden window panels made of 38  x 75 mm Nepali Saal wood frame and a glass of appropriate thickness and color(Khappa ko naap:1.829*1.22,2.23 sqm)/ 3mm mirror install too
+",DWP004,SM,1,9,0.9
+Supply and place 38 mm Flush wooden door panel of size 1.1 m x 2.-2.25 m made of Nepali Saal wooden frame  flushed with 3 mm commercial ply on both sides,DWP005,SM,1,7,0.7
+Supply and place 38 mm Flush wooden door panel of size 1.1 m x 2.-2.25 m made of Nepali Saal wooden frame flushed with 3 mm teak ply on both sides.,DWP006,SM,1,7,0.7
+Single Coat white cement application,PW001,SM,100,0.8,0.7
+Double Coat white cement application,PW002,SM,100,1.5,1.1
+Triple Coat white cement application,PW003,SM,100,3,2.7
+Aster Primer Paint Work for distemper paint,PW004,SM,100,2,2
+Two layers of Emulsion Paint over a single layer of primer paint,PW005,SM,100,5.8,5.8
+Two layers of Wall Putty over the plastered surface,PW007,SM,100,3,3
+Supply and place stainless steel railing in the staircase of height 90cm,RW01,M,3.66,10,10
+Supply and place wooden railing in the staircase.,RW02,M,1,0,0
+Supply and place Iron wood railing in the staircase.,RW03,M,1,0,0
+"Supply and place steel railing in the parapet, and terrace, balcony.",RW04,M,1,0,0
+"Supply and place iron railing in the parapet, and terrace, balcony.",RW05,M,1,0,0
+Supply and place the iron railing in the boundary fence.,RW06,M,1,0,0
+4 inch Brick Work of size 9x 4x 2 inch brick. Supplying preparing and construction of Machine made brickwork of approved quality with 1:4 cement sand mortar ratio with 30 m carrying/transported too.,MBW17,SM,10,1.5,2.2
+Supply and place iron rolling shutter all complete.,IW001,SM,1,0,0
+Supply and Place 5 mm glass of appropriate color over aluminum frames as per design and specification,FW010,SM,1,0,0
+Installation of Gypsum Board False Ceiling of Approved Design all complete,Dec001,SM,1,0,0
+Installation of 2x2 Board False Ceiling of Approved Design all complete.,DEC002,SM,1,0,0
+Cutting and placing 15-18 mm Marble 1:2 Cement sand mortar without polishing,FE007,SM,10,2,8
+Supply and place Water Tank Stand of Appropriate size ,IW002,Nos,1,0,0
+Supply and place Spiral Staircase of Appropriate size ,IW003,Nos,1,0,0
+Latex Polymer Based Water Proofing,WP001,SM,1,0,0
+"Supply and place readymade PVC panels of approved design and quality, with appropriate door accessories all complete",DWP007,SM,1,1,1
+Supply and place fixed modular cabinet cabinets all complete,FFW001,SM,1,1,1
+Supply and place 10-12 mm toughened glass partition,FFW002,SM,1,1,1
+Protection of Excavation Work using Sheet pile of approved design and quality,SPW001,SM,1,0,0
+Marble polishing Works,FE008,SM,10,0,13.5
+25 mm 1 inch thick tile design Plaster above plaster,PW008,SM,10,0,0
+Site Clearance  Works all complete.,SPW,SM,10,0,0.23
+One layer of 500 Gauge Polythene sheet,WP002,SM,10,0.6,0.6
+Supply and place iron grill of appropriate design in window or other opening all complete.,IW008,SM,1,0,0
+Supply and place iron main gate of appropriate design all complete.,IW009,SM,1,0,0
+Supply and place PVC Water Tank of Appropriate size,PSW001,Nos,1,0,0
+"Supply and place readymade door net panels of approved design and quality, with appropriate door accessories all complete",DWP008,SM,1,1,1
+Tile skirting works in 1:4 cement sand mortar ,FW007,M,1,0.15,0.1
+Granite skirting works in 1:4 cement sand mortar ,FW008,M,1,0.15,0.1
+"Granite skirting works in 1:4 cement sand mortar in Lintel, sill, parapet and other horizontal and vertical surface with required nosing and chamfering",FW009,M,1,0.3,0.2
+100 mm Skirting of 15-20mm thickness over plastered surface all complete,PW009,M,1,0.025,0.01
+Cutting trees branches and clearing site of trunk size 12 to 30 cm,SPW002,Nos,1,0,0.13
+Cutting trees branches and clearing site of trunk size 31 to 60 cm,SPW004,Nos,1,0,0.39
+Cutting trees branches and clearing site of trunk size 31 to 60 cm.,SPW005,Nos,1,0,0.98
+Cutting trees root extraction from ground and transporting 15m far from site of trunk size 12 to 30 cm.,SPW006,Nos,1,0,0.4
+Cutting trees root extraction from ground and transporting 15m far from site of trunk size 31 to 60 cm.,SPW008,Nos,1,0,0.53
+Cutting trees root extraction from ground and transporting 15m far from site of trunk size 61 to 120 cm.,SPW007,Nos,1,0,2.52
+"surface dressing, dig earthwork, surface leveling, cutting of mud of sqm",SPW009,SM,1,0,0.01
+"grass plantation work with cutting and planting on another place, fertilization and watering and taking care of work",SPW010,SM,100,0,5.04
+"grass cutting and extraction of its root, breaking its soil and leveling the surface with carrying and throwing material to site clean",SPW011,SM,10,0,0.23
+"Plantation of tree,digging hole of 45cm diameter 4nos  of 3*20mm GI sheet and 5*5cm size GImesh and making 1m height tree guard for safety, watering and fertilization etc with transportation.",SPW012,Nos,10,4,3
+doing hole bore for soil testing and sending sample  in lab for report preparation(for rate analysis lose soil and 12m depth taken),SPW013,Nos,1,6,2
+all excavation work. disposal transportion of soil upto 10m and also upto 1.5m lifting.( for lose clay and silty clay),EW24,CUM,1,0,0.7
+all excavation work. disposal transportion of soil upto 10m and also upto 1.5m lifting.( For hard type clay mixed with soft aggregate size upto 30cm ),EW25,CUM,1,0,0.8
+all excavation work. disposal transportion of soil upto 10m and also upto 1.5m lifting.( without blasting done stone normal type stone),EW26,CUM,1,0,3
+all excavation work. disposal transportion of soil upto 10m and also upto 1.5m lifting.( without blasting done hard stone type )(roof no need to install),EW27,CUM,1,0,5
+all excavation work. disposal transportion of soil upto 10m and also upto 1.5m lifting.(without blasting done hard stone type)(roof need install),EW28,CUM,1,0,24.2
+soil filling done by normal sand.15/15 cm layer laying and spraying water and compaction to done by labor( transportation of material from upto 10m).,EW29,CUM,1,0,0.5
+"soil filling done by normal sand.15,15 cm layer laying and without spraying water and compaction to done by labor( transportation of material from upto 10m).",EW30,CUM,1,0,0.25
+sand filling and laying and without spraying water and compaction to done by labor( transportation of material from upto 10m).,EW31,CUM,1,0,0.7
+Gravel filling on footing area and compaction doing by labor using jumper.,EW32,CUM,1,0,0.75
+footing or footing excavation pit dewatering done by pump.,EW33,MT,5,0,0
+"20,20 cm filled soil layer compacted with 1Ton  rollar.",EW34,CUM,100,0,53
+"20,20 cm layered old soil compacted with rollar.",EW35,CUM,100,0,0
+"Brick Work. Supplying preparing and construction of brickwall work of approved quality with 1:1:1 chuna, surti and sand mortar ratio with 30 m lead",LBM1,CUM,1,1.5,2.2
+"Brick Work. Supplying preparing and construction of brickwall work of approved quality with 1:2 chuna, surkhi  mortar ratio with 30 m lead",LBM2,CUM,1,1.5,2.2
+mud/soil used as motar for MB ,LBM3,CUM,1,1,1.7
+"outer wall surface made with daapchaa, aapaa material  with 1:4 cement and sand brick masonary wall and done tipkarry with chuna surti and transported upto 30m",LBM4,SM,10,1.91,2.45
+shuttering work for BM wall work of ground flooor,MBW19,CUM,1,0,0.2
+shuttering work for BM wall work of above each ground flooor,MBW20,CUM,1,0,0.7
+"Rubble Stone Masonry Work. Supplying hard block stone,preparing mix with cement and sand(1:3) and constructing Rubble masonary wall upto 5m high and transporting upto 10m  distance.",SMW17,CUM,1,1.5,5
+"Rubble Stone Masonry Work. Supplying hard block stone,preparing mix with cement and sand(1:4) and constructing Rubble masonary wall upto 5m high and transporting upto 10m  distance.",SWM18,CUM,1,1.5,5
+"Rubble Stone Masonry Work. Supplying hard block stone,preparing mix with cement and sand(1:6) and constructing Rubble masonary wall upto 5m high and transporting upto 10m  distance.",SWM19,CUM,1,1.5,5
+Dry Rubble Stone Masonry Work. Supplying block and bond stone and constructing Rubble masonary wall upto 5m high and transporting upto 10m  distance.,SWM20,CUM,1,1,2
+ Mud Rubble Stone Masonry Work. Supplying hard block tone  and constructing Rubble masonary wall with mud mix upto 5m high and transporting upto 10m  distance.,SWM21,CUM,1,1,2.25
+Stone arch wall or third layer surface work.supplying block stone  and preparaing and supplyinh cement snad mix (1:3) and transported to 30m distance,SWM22,CUM,1,2,5.4
+Stone arch wall or third layer surface work.supplying block stone  and preparaing and supplyinh cement snad mix (1:4) and transported to 30m distance,SWM23,CUM,1,2,5.4
+Stone arch wall or third layer surface work.supplying block stone  and preparaing and supplyinh cement snad mix (1:6) and transported to 30m distance,SWM24,CUM,1,2,5.4
+"Rubble Stone Masonry Work. Supplying hard block stone,preparing mix with cement and sand(1:3) and constructing Rubble masonary wall upto 5m to 10m high done and transporting upto 10m  distance.",SMW18,CUM,1,1.5,6.17
+"Rubble Stone Masonry Work. Supplying hard block stone,preparing mix with cement and sand(1:4) and constructing Rubble masonary wall upto 5m to 10m high and transporting upto 10m  distance.",SWM25,CUM,1,1.5,6.17
+"Rubble Stone Masonry Work. Supplying hard block stone,preparing mix with cement and sand(1:6) and constructing Rubble masonary wall upto 5m TO 10m high and transporting upto 10m  distance.",SWM26,CUM,1,1.5,6.17
+Dry Rubble Stone Masonry Work. Supplying block and bond stone and constructing Rubble masonary wall upto 5m to 10m high and transporting upto 10m  distance.,SWM27,CUM,1,1,3.17
+ Mud Rubble Stone Masonry Work. Supplying hard block tone  and constructing Rubble masonary wall with mud mix upto 5m to 10m high and transporting upto 10m  distance.,SWM28,CUM,1,1,4.42
+brocken stone work with chuna and sand mix(1:2),SWM29,CUM,10,15,42
+sculpture/Kundheyko stone work with Cement and sand mix(1:2),SWM30,CUM,10,15,30
+foundation excavated pit back filling with stone and transported within 30m distance. ,SWM31,CUM,1,0,1.5
+white cement glass block wall work and transportation done with 30m distance.,GMW,SM,1,0.75,1.88
+concrete mesh block wall made with mix cement and sand(1:4) and transported upto 30m,CMW,SM,10,1.1,1.8
+concrete hollow block wall made with mix cement and sand(1:4) and transported upto 30m,CWW,SM,1,0.25,0.25
+"1:3:6 PCC Works, M10 Grade Concrete Machine  Mixing(foundation ,wall,boundary supply and installation upto 30m lead)",PCCWM11,CUM,1,0.5,3.5
+"1:2:4 PCC Works, M15 Grade Concrete machine mixed (foundation,wall,boundary supply and transportation upto 30m lead)",PCCM16,CUM,1,0.5,3.5
+supplying and preparing material for RCC single under rim pile in foundation and transporting upto 30m(365mm dia and 6m length),SPW003,CUM,1,2.72,7.5
+6.35 cm thick diameter R.B category work(1:3),SPW0010,CUM,10,1.15,3
+"installing, prepration, neiling, oiling of column and removal of form work",SFW004,SM,10,3.748,5.622
+Ply formwork in Beam from 0.3m to 0.8m high,SFW005,SM,10,2.67,4
+prepration of 19mm ply formwork for beam.,SFW006,SM,10,2.67,4
+Iron pipe and  plywood formwork used for shuttering,SFW007,SM,100,17.2,25.7
+circular bharang area use of plyboard,SFW008,SM,10,4,6
+upto 6m span and 4m depth arch area put steel sheet and wood flank formwork,SFW009,SM,10,9,7.5
+upto 6m span and 4m depth in dome area/structure use of iron sheet and wooden flank for form work,SFW10,SM,10,16.5,13
+upto 5m height wooden formwork needed for carnace work,SFW11,SM,10,9.5,7
+additional manpower needed for height above 5m high carnace work( like 3m to 5m additional height),SFW12,SM,10,0.72,1.14
+additional manpower needed for height above 5m high carnace work( like 5m to 10m additional height),SFW13,SM,10,3,4.4
+on trench formwork of walling upto depth of 1.5m to 3m.,SFW14,SM,100,0.5,1
+on trench formwork of walling upto depth of 3m to above.,SFW15,SM,100,1,1.75
+placing and fixing of Ridge cover made of colored  galvanized plane Sheet 24 gage (0.5 mm),RW3,M,10,2,3
+Roofing work using  Plane Galvanized Iron (GI) Sheet (0.5mm).,RWOO5,SM,10,1.1,1.25
+Roofing work using  colored plane Galvanized Iron (GI) Sheet.,RW006,SM,10,1.1,1.25
+Making and placing 150 mm to 450 mm wide with colored galvanized plane sheet gutter for rain water putting on pipe and all complete with (40 mm*3mm) iron brackets and other required accessories.,RW007,M,10,1.75,2
+preparing and installing roof by use of slate ,RW008,SM,10,4,5
+preparing and installing roof by use of clay tile,RW009,SM,10,0.5,1.5
+preparing and installing ridge  by use of clay tile,RW10,SM,10,0.5,0.5
+preparing and installing 10cm thick lime concrete terraced roof (1:1:3),RW013,SM,10,1.5,12
+preparing and installing roof  with bamboo frame and placing rice straw work (8cm thick),RW014,SM,10,1.5,1.5
+preparing and installing roof  with bamboo frame and placing rice straw work (15cm thick),RW015,SM,10,2,2
+preparing and installing roof  with corrugated fiber glass sheet,RW15,SM,10,1.1,1.25
+preparing and installing roof ridge with fiber glass sheet.,RW16,SM,10,2,3
+"supply,placing colored cement tile on screed of sand and cement mix(1:4)",RW17,SM,10,1,2
+supplying and installating Agraakh wood beam and dalin/rafter,RW18,SM,10,1.43,0.143
+supplying and installating Agraakh wood truss or kainchhi,RW19,CUM,1,17.65,26
+"installing on roof 2mm thick UPVC sheet and accessories like clip,washer.",RW20,SM,10,1.5,1
+"installing on roof 3mm thick UPVC sheet and accessories like clip,washer.",RW21,SM,10,1.5,1
+"Supply and place wooden window panels made of 38  x 75 mm Nepali Saal wood frame and a glass of appropriate thickness and color(Khappa ko naap:1.829*1.22,2.23 sqm)/ 4mm mirror install too
+",DWP009,SM,1,9,0.9
+"prepration and installation of Agraakh wood frame for window
+",DWP010,CUM,1,34,3.4
+" installation of 6mm mirror/glass for window.
+",DWP012,CUM,1,9,0.9
+Supply and place 38 mm thick agrakh wooden door panel of size 1.1m m x 2-2.25 mm made of flushed with G.R Plane sheet on both sides,DWO014,SM,1,7,0.7
+Supply and place 38 mm agraakh Flush wooden door panel of size 1.1 m x 2.-2.25 m made of Nepali Saal/agrakh  wooden frame  flushed with G.R Plane sheet(24gauge) on both sides,DWP14,SM,1,5,0.5
+installation of listee on different size mirror on chaukash (3mm mirror),DWP15,SM,1,0.06,0.006
+installation of listee on different size mirror on chaukash (6mm mirror),DWP17,SM,1,0.06,0.006
+installation of listee on different size mirror on chaukash (4mm mirror),DWP16,SM,1,0.06,0.006
+installation of 3mm commercial plywood wood listee work in chaukash,DWP18,SM,1,0.06,0.006
+cutting of 16mm-20mm dia iron rod and making hole on chaukash and installation work.,DWP19,MT,1,20,20
+installation and prepraing on 38mm*100mm saal wood frame use 8mm commercial plywood and on one side do lamination with 4mm thick teak ply by making dilla-kahppa,DWP20,SM,2.245,9,0.9
+installation and prepraing on 38mm*100mm saal wood frame use 8mm commercial plywood and on both side do lamination with 4mm thick teak ply by making dilla-kahppa(delete),DWP21,SM,2.245,9,0.9
+installation and prepraing on 38mm*100mm saal wood frame use 8mm water proof plywood and on one side do lamination with 4mm thick teak ply making water proof dilla-kahppa,DWP22,SM,2.245,9,0.9
+by doing seasoning and poisoning used of one side teak and of normal type of door installation with necessary hardware accessories,DWP23,SM,1,1.76,0.18
+by doing seasoning and poisoning used of one side teak and of special type of door installation with necessary hardware accessories,DPW24,SM,1,1.61,0.161
+by doing seasoning and poisoning used of one side teak and another side water proof ply and of normal type of door installation with necessary hardware accessories,DWP25,SM,1,1.61,0.161
+by doing seasoning and poisoning used of one side teak and another side water proof ply and of special type of door installation with necessary hardware accessories,DPW26,SM,1,1.61,0.161
+lamination of sonmikka and installation on one side,DPW27,SM,1,0.06,0.006
+lamination of formikka and installation on one side,DDPW100,SM,1,0.06,0.006
+"aluminium landing window, glass and its fitting with its installation(for analysis 1.49sqm area taken)",DWP29,SM,1,5.33,5.33
+"aluminium openable window, glass and its fitting with its installation(for analysis 2.23sqm area taken)",DWP30,SM,1,8,8
+aluninium door with pre-laminated board and its accessories and installation(analysis2.16sqm area taken),DWP31,SM,1,6.22,6.22
+aluninium door with upper part with glass and lower part pre-laminated board and its accessories and installation(analysis1.81sqm area taken),DWP32,SM,1,6.22,6.22
+"Supply and Place UPVC aluminium door window work with board,glass and its fitting.(80mm*80mm)size landing with 5mm glass.",DWP 003,SM,1,0,0
+"Supply and Place UPVC aluminium door window work with board,glass and its fitting.(60mm*60mm)size landing with 5mm glass.",DWP0010,SM,1,0,0
+"Supply and Place UPVC aluminium door window work with board,glass and its fitting.(100mm*60mm)size landing with 9mm glass.",DWP0011,SM,1,0,0
+"Supply and Place UPVC aluminium door window work with board,glass and its fitting.(80mm*50mm)size casement type 5mm double glass.",DWP013,SM,1,0,0
+"Supply and Place UPVC aluminium door window work with board,glass and its fitting.(60mm*60mm)size wing door with 5mm glass.",DWP0014,SM,1,0,0
+"Supply and Place UPVC aluminium door window work with board,glass and its fitting.(60mm*60mm)size casement type 5mm double glass.",DWP0015,SM,1,0,0
+"Supply and Place UPVC aluminium door window work with board,glass and its fitting.(50mm*50mm)size landing type with 5mm glass and aluminium land .",DWP0016,SM,1,0,0
+"Supply and Place UPVC aluminium door window work with board,glass and its fitting.(60mm*60mm)size casement type 5mm glass and paleyn luver.",DWP0017,SM,1,0,0
+"Supply and Place UPVC aluminium door window work with board,glass and its fitting.(60mm*60mm)size casement type 5mm glass and adjustable glass and with palayen luver",DWP0018,SM,1,0,0
+"Supply and Place UPVC aluminium door window work with board,glass and its fitting.(50mm*80mm)size casement type 5mm glass,aluminium slide and also paleyn luver.",DWP0019,SM,1,0,0
+"Supply and Place UPVC aluminium door window work with board,glass and its fitting.(100mm*60mm)size swing type 5mm glass and below part with UPVC paleyn",DWP0020,SM,1,0,0
+25mm thick mosic flooring. doing 20mm cement concrete(1:2:4) ontop do 5mm thick(1:1)white cement and marble chip using and rubbing and ploishing.,FW0011,SM,10,2.5,16
+25mm thick mosic flooring. doing 19mm cement plaster(1:2) ontop do 6mm thick(1:1)white cement and marble chip using and rubbing and ploishing.,FW0012,SM,10,3.5,36
+20mm thick mosic flooring. doing 12.5mm cement plaster(1:2) ontop do 6mm thick(1:1)white cement and marble chip using and rubbing and ploishing.,FW0013,SM,10,3.5,36
+20mm terrajo tile placing on 20mm cement sand thick mix(1:4) rubbing and ploishing.,FW0014,SM,10,2,12.6
+50mm thick flag stone/chaapney stone  used for flooring in (1:4)cement and sand ,FW0015,SM,10,2,4.5
+50mm thick flag stone/chaapney stone  used for flooring on top of sand .,FW0016,SM,10,1,3
+37.5mm thick flag stone/chaapney stone  used for flooring in (1:4)cement and sand ,FW0017,SM,10,2,4.5
+25mm thick CHYAAPTOO stone/chaapney stone  used for flooring in (1:4)cement and sand ,FW0018,SM,10,1.5,4.5
+25MM thick teyliyaa brick placing on mix of chunna surti(1:2) and doing tipkaar b cement and sand(1:1).,FW0019,SM,10,4.5,4.5
+Thadoo brick placing on cement and sand mix(1:6) and doing tipkaar on its joint with mix(1:2),FW0021,SM,10,1.1,1.8
+cheyptoo brick placing on cement and sand mix(1:2) and doing tipkaar on its joint.,FW0020,SM,10,2.25,3.25
+placing parketing and doing khassi and ploishing,FW0022,SM,10,1.75,0.75
+Dry brick used flooring work(cheyptoo brick).,FW0023,SM,10,0.5,1
+Dry brick used flooring work(Thadoo brick).,FW0024,SM,10,1,3.25
+Dry stone used in flooring work.,FW0025,SM,10,1,3.5
+do 125mm thick thadoo brick soling and fill sand on joint and also on top of joint use cement sand(1:3) mix .,FW0027,SM,10,2,4
+placing 46cm*46cm stone for flooring and use tipkaar of cement and sand mix(1:1).,FW0028,SM,10,0.5,0.5
+filling surface by sand ,FW0029,SM,10,6.5,0
+filling surface by (15mm-150mm) brocken brick.,FW0030,SM,10,10,0
+3mm thick cement masino rubbing ,FW0033,SM,10,1,1
+using 50mm*70mm agrakh frame and placing 25mm thick pannel of agraakh of size 600mm*600mm.,FW0034,SM,10,6.5,0.65
+arranging material and laying 50mm thick heavy duty interlink concrete block on top of 50mm thick crusser dust.,FW0035,SM,10,1,10
+arranging material and laying 60mm thick heavy duty interlink concrete block on top of 50mm thick crusser dust.,FW0036,SM,10,1,10
+doing plain plaster of paris on ceiling and wall.,FW0037,SM,10,1,1
+machine made clay tile installing on wall surface.,FW0038,SM,10,13,4.5
+16mm granite placement on 20mm thick cement and sand mix(1:2).,FW0039,SM,10,2,21.5
+installing Antislip tile on floor of size 300mm*300mm and 25mm thick on cement sand mix(1:4).,FW0040,SM,10,1.5,1.5
+installing Glazed ceramic tile on wall cement sand mix(1:4).,FW0041,SM,10,1.3,0.45
+installing non-glazed tile on cement sand mix(1:3)of 12mm thick and do white cement work on joint ,FW0042,SM,10,13,4.5
+installing Acid Alakali processed/produced tile of size 300mm*300mm and 25mm thick done on  cement sand mix(1:4).,FW0043,SM,10,0.65,0.65
+installing PVC tile on rubber based adhisive and rolling work,FW0044,SM,10,1.5,1.5
+15mm marble(450mm*450mm) placed on 20mm thick surkhi mix(1:2) and rubbed and polished.,FW0045,SM,10,2,8
+15mm marble(300mm*300mm) placed on 20mm thick cement and sand  mix(1:2) and rubbed and polished.,FW0046,SM,10,2,21.5
+"15mm  marble tile placed on 12.5mm thick cement and sand  mix(1:3) done on steps of staircase,skirting,wall,column and rubbed and polished.",FW0047,SM,10,14,12
+marble used for Nosing work of steps of staircase additional manpower added.,FW0048,SM,10,2.5,3.5
+marble polishing work only,FW0049,SM,10,0,13.5
+skirting work done on room  by wood parket of 12mm thick and 100mm height,FW0050,SM,10,6.5,0.65
+skirting work done by non glazed tile of 12mm thick of cement and sand mix(1:6)and 100mm height,FW0051,SM,10,0.15,0.1
+12.5mm thick plaster by cement lime and sand(1:1:6)part,PW0025,SM,100,12,16
+12.5mm thick plaster by cement lime and sand(1:2:12)part,PW2018,SM,100,12,16
+12.5mm thick plaster by cement lime and surkhi(1:2)part,PW0027,SM,100,12,16
+20mm thick plaster by cement lime and surkhi(1:2)part,PW0028,SM,100,14,19
+20mm plaster cement and sand (1:3),PW0029,SM,100,14,19
+20mm plaster cement and sand (1:4),PW0031,SM,100,14,19
+20mm plaster cement and sand (1:6),PW0032,SM,100,14,19
+"25mm mud plaster work by making surface clean,curing with water and transporting upto 30m",PW0033,SM,100,20,25
+"12mm mud plaster work by making surface clean,curing with water and transporting upto 30m",PW0034,SM,100,15,20
+12.5mm thick cement sand plaster (1:3)part,PW0035,SM,100,15,20
+12.5mm thick cement sand plaster (1:4)part,PW0036,SM,100,15,20
+Flush rule tipkar work doing on brickmasonary wall of ratio(1:1)cement and sand,PW0037,SM,100,10.5,12
+Flush rule tipkar work doing on brickmasonary wall of ratio(1:2)cement and sand,PW0038,SM,100,10.5,12
+Flush rule tipkar work doing on brick masonary wall of ratio(1:1)Lime and Surkhi,PW0039,SM,100,10.5,12
+Flush rule tipkar work doing on brick masonary wall of ratio(1:2)Lime and Surkhi,PW0040,SM,100,10.5,12
+Flush rule tipkar work doing on bolder stone masonary wall of ratio(1:1)cement and sand,PW0041,SM,100,10,14
+Flush rule tipkar work doing on bolder stone masonary wall of ratio(1:2)cement and sand.,PW0042,SM,100,10,14
+Flush rule tipkar on asler work with (1:3)cement and sand mix,PW0044,SM,100,8,10
+placing of Cheypto stone of 45cm *45cm  size and done tipkare (1:3)mix cement and sand ,PW0045,SM,100,8,5
+placing of Teliyaa brick and done tipkare (1:1)mix cement and sand ,PW0046,SM,100,10,10
+3mm thick flushing plaster with lime,PW0047,SM,100,10,10
+3mm thick flushing plaster with cement,PW0048,SM,100,10,10
+1 inch thick roofing tile buttaa plaster with cement and sand mix(1:4).,PW0049,SM,1,0,0
+platsering work  of 2mm plain white patti on wall and ceiling.,PW0050,SM,10,1,1
+white wash/white chuna lagauney on new surface( 1 coat).,PW0051,SM,100,0.8,0.7
+white wash/white chuna lagauney on new surface( 2 coat).,PW0052,SM,100,1.5,1.1
+white wash/white chuna lagauney on new surface( 3 coat).,PW0053,SM,100,3,2.7
+Single coat Primer Paint Work for distemper paint,PW0054,SM,100,2,2
+Double  coat and other additional coat Work for distemper paint,PW0055,SM,100,2,2
+water proof cement paint(single coat),WP01,SM,100,1.7,1.7
+water proof cement paint(Double coat),WP02,SM,100,5,5
+doing Ready enamel paint or plastic enamel paint work( aster coat),WP03,SM,100,3,3
+doing Ready enamel paint or plastic enamel paint work( one or first coat).,WP04,SM,100,5,2
+doing Ready enamel paint or plastic enamel paint work( Double coat).,WP05,SM,100,4,3
+doing one coat aster and double coat aluminium paint ready,WP07,SM,100,10.75,10.75
+Double boiled linsid oil use(one coat),WP08,SM,100,2,2
+Double boiled linsid oil use( double coat and other additional coat),WP09,SM,100,2,2
+barnish work (one coat),WP010,SM,100,3,2
+barnish work (double coat and other additional coat),WP011,SM,100,3,2
+coal paint work(single coat),WP012,SM,100,1.5,1
+coal paint work(double coat),WP013,SM,100,2.5,2
+Chappra palish work 3 coat,WP014,SM,100,10,5
+Red oxide coat paint work,WP015,SM,100,1.7,1.7
+Red oxide 2 coat paint work,WP016,SM,100,3.5,3.5
+doing cement paint on plasterd surface(one coat),WP018,SM,100,3.5,3.5
+doing cement paint on plasterd surface(double coat),WP019,SM,100,3,3
+old durbar/palace painting done by outer surface single coat white wash,WP020,SM,100,2,4
+old durbar/palace painting done by outer surface single coat Ramtilak,WP021,SM,100,2,4
+old surface wash with linsed oil and then doing enamel paint,WP022,SM,10,0.538,0.538
+without aster do one coat ready enamel paint,WP023,SM,100,5,2
+without aster do two coat ready enamel paint,WP024,SM,100,9,5
+without aster do one coat platic enamel paint,WP025,SM,100,5,2
+without aster do double coat platic enamel paint,WP026,SM,100,9,5
+without aster do one coat aluminium paint,WP027,SM,100,3.75,3.75
+without aster do two coat aluminium paint,WP028,SM,100,7.75,7.75
+without aster do one coat red oxide paint,WP029,SM,100,4.3,4
+without aster do two coat red oxide paint,WP030,SM,100,8.67,8
+one layer use plastic failt ,WP031,SM,10,1.1,3.5
+double  layer use plastic failt ,WP032,SM,10,2.3,4.6
+one coat of primer with two coat of readywashable distemper use,WP034,SM,10,5.8,5.8
+japanese texure paint painting,WP036,SM,10,0,0
+Heritage wall  texure paint painting,WP035,SM,10,0,0
+doing of anti termite work,WP037,SM,10,0,0
+ water proof compound mix with cement sand mix(1:2) of 2cm thick for damn proof work,WDP01,SM,10,0.75,0.8
+cement concrete mix of  (1:1.5:3) and 2.5 cm thick for damn proof work,WDP02,SM,10,1,1.25
+one coat damnproof  bitument coat and cover with sand.,WDP03,SM,10,0,0.6
+one layer ploytheyene sheet(500gauge)layout work,WDP04,SM,10,0.6,0.6
+doing taarfelt (one layer) work for danmproof work,WDP05,SM,10,1.1,3.5
+doing taarfelt (double layer) work for danm proof work.,WDP07,SM,10,2.3,4.6
+Damnproof grade tarfelt doing work(one layer),WDP08,SM,10,2.35,4.6
+Damnproof grade tarfelt doing work(double layer),WDP09,SM,10,3.5,11.7
+elastocrate cementium elastomeric water proof coating double layer.,WDP10,SM,1,0,0
+one coat renseal or like that paint work,WDP11,SM,1,0.162,0.54
+breaking of wall done on soil and transporting and disposing upto 10m,DMW01,CUM,1,0,1.06
+breaking of wall done on cement or concrete and transporting and disposing upto 10m.,DMW02,CUM,1,0,2.12
+breaking of RCC or RBC work  and transporting and disposing upto 10m.,DMW03,CUM,1,0,11
+breaking of plane cement concrete or bajjra concrete and transporting and disposing upto 10m.,DMW04,CUM,1,0,4
+breaking of cement or bajjra plaster and transporting and disposing dust upto 10m.,DMW05,SM,1,0,0.108
+breaking of tile roof and dispoing and removing its waste wood and tiles upto 10m.,DMW06,SM,1,0.054,0.108
+paint used for anti bacteria and fungus protection type in wood ,DMW07,SM,1,0.22,0.1
+dismantling of brocken brick on modoha of wall and repair on cemnet and sand mix(1:6),DMW08,CUM,1,3.53,7.06
+dismantling of brocken brick on modoha of wall and repair on chuna and surkhi mix(1:2),DMW09,CUM,10,35.28,70.53
+use of oxalic acid and rubbing and cleaning on  old marble and marble layer on wall ,DMW11,SM,10,0,3.38
+rubbing and cleaning doing polish on old parket area.,DMW12,SM,10,0,0.38
+"cleaning, rubbing on old mossic loring and putting nail polish work",DMW13,SM,10,0,3.38
+claening and making break ready which is taken out from old brick wall and stacked. From(mud mix wall),DMW14,Nos,1000,0.04,3.9
+claening and making break ready which is taken out from old brick wall and stacked. From( chuna s urkhi mixwall),DMW15,Nos,1000,0.75,4.1
+claening and making break ready which is taken out from old brick wall and stacked. From( cement sand mix wall),DMW16,Nos,1000,1.2,4.85
+claening and making stone  ready and stacking to reuse purpose (chuna surkhi mix),DMW17,CUM,1,0.18,1.05
+claening and making stone  ready and stacking to reuse purpose ( cement and sand  mix),DMW18,CUM,1,0.22,1.15
+"breaking of sulpured stone ,marble or precast concrete(chuna surkhi mix)",DWM19,CUM,1,0.1,1.4
+"breaking of sulpured stone ,marble or precast concrete(cement and sand mix)",DWM20,CUM,1,0.1,2.7
+breaking and stacking properly upto 10m span and 5m height wood related work( 40sqcm section),DWM21,CUM,1,0.1,0.2
+breaking and stacking properly upto 10m span and 5m height wood related work( above 40 sq cm section),DWM22,CUM,1,1.25,2.6
+"removing, seperating , collecting and tacking properly reinforcement  related work(rolled steel joint)",DWM23,MT,1,0.5,3.5
+"removing, seperating , collecting and tacking properly reinforcement  related work(channel, angle,tee)",DWM24,MT,1,0.5,3
+"removing, seperating , collecting and tacking properly reinforcement  related work(builtup section)",DWM25,MT,1,1.5,7
+"removing, seperating , collecting and tacking properly reinforcement  related work(builtup section without seperation)",DWM26,MT,1,1,6
+"fence work remove ,mud removal and filling mud on pit and levelling the surface(RCC fence)",DWM27,SM,1,0,0.45
+"fence work remove ,mud removal and filling mud on pit and levelling the surface(Iron fence)",DWM28,SM,1,0,0.42
+"fence work remove ,mud removal and filling mud on pit and levelling the surface(wood  fence)",DWM29,SM,1,0,0.4
+removal of iron rod or material from RCC and RBC  and transported upto 10m,DWM30,SM,1,0.1,1.2
+Gabion breaking materials removed upto 10m ,DWM31,CUM,1,0.1,1
+"GIsheet roof dismantle and wood,rod  received from it is stacked upto 10m",DWM32,CUM,1,0.027,0.04
+preparing and installation of 3mm*20mm iron grill work doing khakshi and aluminium paint,RWW01,SM,1,0,0
+preparing and installation of 4.5mm*20mm iron grill work doing khakshi and aluminium paint,RWW02,SM,10,0,0
+prepare and installation work. 4.5mm*20mm iron rod frame use 12mm*12mm solid core square rod grill and then doing khakshi put red oxide and aluminium paint,RWW03,SM,10,0.7,0.6
+different size iron angle fabrication done and primer paint to make ready,RWW08,MT,0.001894,0.687,0.781
+3m height 90cm breath iron spiral ladder prepration and installation work.,RWW09,M,3,16,16
+"iron railing shutter prepration ,installation, painting and labor rate too",RWW010,MT,0.0093,16,16
+"iron collapsable gate ,painting and installation ",RWW012,SM,10,0,0
+"iron gate ,painting and installation ",RWW13,MT,0.001,0,0
+wooden pole installation on gap of 3m distance and 5 straight row and 2 line teyrso barbaed fence installation,RWW016,M,30,1,2
+installation GI wire barbared fence,RWW015,M,100,1.076,5.38
+black pipe tubular truss isntallation and primer paint,RWW017,MT,0.1894,0.687,0.781
+50mm black iron pole kept  in 2m gap with 25mm*25mm*4mm angle frame with 7mm iron rod and 62mm*62mm keep mesh diagonally install and 3mm*20mm iron sheet grill of 0.15mm high prepared and fabricated on top and done primer paint.,RWW19,SM,10,7,5
+38mm dia stainless steel hainrail where 2m gap 38mm stainless steel vertical post keep and in between haindraila nd bottom two horizontal25mm dia stainless steel member kept and railing made and installed.,RWW020,SM,9.15,7.78,11.35
+"15mm*15mm size sal or seesau wood artestic post and 3""*3""  artestic balluster used and 3""*4"" size sal or sesauu handrail install ",RWW021,SM,9,5.27,0.52
+"Sesau wood 3""*4"" size handrail made and fitting done.",RWW24,M,1,0,0
+"from 3mm/4mm"" * 3mm/4mm  size suwere pipe railing is made. from sal or sesau of size 3""*4"" handrailing is made and primer paint is done. ",RWW25,M,1,0,0
+preparing of material of 20mm dia wood ceiling work and 40mm*20mm bidding joint work,WCW01,SM,10,1.8,1.5
+preparing of material of 20mm dia plyboard ceiling work ,WCW02,SM,10,2,2
+38mm*75mm size agrakh wood( 0.61mm*0.915mm )room frame made and on both side 3mm commercial plywood installation done with liste work done on joint do covering.,WCW03,SM,35.58,23,2.3
+38mm*75mm size agrakh wood( 0.61mm*0.915mm )room frame made and on both side 3mm plywood installation done with liste work done on joint do covering.,WCW003,SM,35.568,23,2.3
+38mm*75mm size agrakh wood( 0.61mm*0.915mm )room frame made and on both side 3mm hardboard installation done with liste work done on joint do covering.,WCW04,SM,35.58,23,2.3
+38mm*75mm size agrakh wood( 0.61mm*0.915mm )room frame made and on both side 19mm agrakh flank installation on lap joints done covering.,WCW05,SM,35.58,30,3
+50mm*75mm size agrakh wood 0.6mm*0.9mmroom (frame) and then installing different ceiling.(3mm commercial plywood ),WCW06,SM,35.58,23,2.3
+50mm*75mm size agrakh wood 0.6mm*0.9m room (frame) and then installing different ceiling.(12mm hardboard plywood ),WCW07,SM,35.58,23,2.3
+50mm*75mm size agrakh wood 0.6mm*0.9mmroom (frame) and then installing different ceiling.(6mm water proof plywood ),WCW08,SM,35.58,23,2.3
+75mm*75mm size agrakh wood on 1.71mm*1.86mm room size with farme of sal of 50mm*75mm cross partison doing and 12mm commercial plywood oneside and 4mm teak on lamination doing and doing joint covering by wood listee.,WCW09,SM,35.58,4.26,0.426
+prepration and installation of gypsum false ceiling on GI frame (under RCC frame),WCW011,SM,10,0,0
+prepration and installation of gypsum board suspended ceiling on GI frame (under RCC frame),WCW013,SM,10,0,0
+prepration and installation of metaland polyetar laminated ceiling on GI frame (under karkat patta/corrugated sheet),WCW014,SM,10,0,0
+prepration and installation of ceiling work by armstrong baord suspended,WCW015,SM,10,0,0
+prepration and installation by 6mm thick flex-O board (waterproof cement board)false ceiling work,WCW016,SM,10,0,0
+"prepration and installation 12,5mm thick gypsum board on gypsteel G.I underframe",WCW017,SM,10,0,0
+prepration and installation 12.5mm thick gypsum board or pannelling work on gypsteel GI underframe,WCW018,SM,10,0,0
+prepration and installation by 5mm glass and 9mm laminated board aluminium partisian of size 101mm*45mm*1.1mm,WCW019,SM,10,0,0
+prepration and installation by 5mm glass and 9mm laminated board aluminium partisian of size 64mm*38mm*1.1mm,WCW020,SM,10,0,0
+ installing and prepration by 75mm*16mm wood frame on sesauu  and polishing work,WCW021,SM,10,0,0
+preparing 75mm thick arokon or repicon prefab panel installation work,WCW022,SM,10,0,0
+preparing 50mm thick arokon or repicon prefab panel installation work,WCW023,SM,10,0,0
+preparing 40mm thick arokon or repicon prefab panel installation work,WCW024,SM,10,0,0
+preparing 40mm thick arokon or repicon prefab panel  and making cubical installation work,WCW025,SM,10,0,0
+preparing by 5mm thick glass and both side 9mm laminated board and doing UPVC partisian of frame size 60mm*60mm,WCW026,SM,10,0,0
+preparing by 5mm thick glass and  9mm laminated board and doing UPVC partisian of frame size 60mm*60mm,WCW027,SM,10,0,0
+installation and prepration by aluminium frame of 3 or 4mm thick aluminium composite pannel,WCW028,SM,1,3,3
+prepration of alumunium frame  3 layer of 12mm thick decorative pre lamination partical board installation work,WCW029,SM,1,0.8,0.8
+" installation of 4mm mirror/glass for window.
+",DWP014,CUM,1,9,0.9
+" installation of 3mm mirror/glass for window.
+",DWP015,CUM,1,9,0.9
+filling surface by sand,FW0032,SM,10,6.5,0
+"Cutting and placing 16 mm Granite in 20 mm 1:2 Cement sand mortar laying, rubbing and with polishing",FW0010,SM,10,2,21.5
+old surface white wash with lime done,PW054,SM,100,0.8,0.7
+"from 3mm/4mm"" * 3mm/4mm  size suwere pipe railing is made and 1.5""dia handrail made from black pipe and primer paint is done. ",RWW26,M,1,0,0
+75mm*75mm size agrakh wood on 1.71mm*1.86mm room size with farme of sal of 50mm*75mm cross partison doing and 12mm teak plywood oneside and 4mm teak on lamination doing and doing joint partison by covering by wood listee.,WCW10,SM,35.58,6.39,0.639
+prepration of sub grade by cutting soil on normal soil and transportation and removal upto 10m,WR01,SM,1,0,0.15
+filling soil is done compacted by rolling on layer layer,WR02,CUM,100,0,0.5
+"laying of mixed sand and soil gravel for sub base. laoding, transporting,surface leveling and transporting upto 10m.( 10cm solid thickness)",WR03,SM,1,0,0.5
+"laying of mixed sand and soil gravel for sub base. laoding, transporting,surface leveling and transporting upto 10m.( 15cm solid thickness)",WR04,SM,1,0,0.19
+"laying of mixed sand and soil gravel for sub base. laoding, transporting,surface leveling and transporting upto 10m.( 20cm solid thickness)",WR05,SM,1,0,0.21
+"hand brocken or required size gravel subgrade laying work, material loading transportaionsurface laying and 10m transportaion upto10m (10cm solid thicness)",WR06,SM,1,0,0.14
+"hand brocken or required size gravel subgrade laying work, material loading transportaionsurface laying and 10m transportaion upto10m (15cm solid thickness)",WR08,SM,1,0,0.21
+"hand brocken or required size gravel subgrade laying work, material loading transportaionsurface laying and 10m transportaion upto10m (25cm solid thickness)",WR09,SM,1,0,0.32
+hand brocken solid thickness base course laying work of thickness 10cm.surface leveling and transportation upto 10m .,WR10,SM,1,0,0.15
+prepration and collection of material for tackcoat laying on top of base course.,WR11,SM,10,0,0.2
+prepration and collection of material for primecoat laying on top of base course.,WR12,SM,10,0,0.2
+"prepration of gabion wall. cutting of wire,mesh prepration of square shape.mesh size 80mm*100mm , mesh wire9 S.W.G salewage wire 6 S.W,G(2m*1m*1m box).",WR13,Nos,1,0,0.2
+"prepration of gabion wall. cutting of wire,mesh prepration of square shape.mesh size 80mm*100mm , mesh wire 9 S.W.G salewage wire 6 S.W,G(3m*1m*1m box).",WR14,Nos,1,0,0.2
+"prepration of gabion wall. cutting of wire,mesh prepration of square shape.mesh size 80mm*100mm , mesh wire 9 S.W.G salewage wire 6 S.W,G(2m*1m*0.5m box).",WR15,Nos,1,0,0.2
